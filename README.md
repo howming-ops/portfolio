@@ -15,3 +15,8 @@ This is the navigation hub for my platform engineering portfolio.
 ## Demo (later)
 - Local: kind/minikube (optional)
 - Cloud: EKS (optional)
+
+## Repositories
+- [platform-infra](https://github.com/howming-ops/platform-infra) — IaC / K8s / Observability
+- [golden-path](https://github.com/howming-ops/golden-path) — Templates & workflows
+- [sample-service](https://github.com/howming-ops/sample-service) — FastAPI demo service
