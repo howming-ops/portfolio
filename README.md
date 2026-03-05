@@ -20,3 +20,6 @@ This is the navigation hub for my platform engineering portfolio.
 - [platform-infra](https://github.com/howming-ops/platform-infra) — IaC / K8s / Observability
 - [golden-path](https://github.com/howming-ops/golden-path) — Templates & workflows
 - [sample-service](https://github.com/howming-ops/sample-service) — FastAPI demo service
+
+## Architecture
+<img width="4108" height="612" alt="mermaid-diagram-2026-03-05-181326" src="https://github.com/user-attachments/assets/abbf5e6b-a627-4bef-8817-e33fcfa98293" />
