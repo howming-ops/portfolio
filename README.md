@@ -22,4 +22,5 @@ This is the navigation hub for my platform engineering portfolio.
 - [sample-service](https://github.com/howming-ops/sample-service) — FastAPI demo service
 
 ## Architecture
-<img width="4108" height="612" alt="mermaid-diagram-2026-03-05-181326" src="https://github.com/user-attachments/assets/abbf5e6b-a627-4bef-8817-e33fcfa98293" />
+<img width="4131" height="612" alt="mermaid-diagram-2026-03-05-181326" src="https://github.com/user-attachments/assets/422e9c8b-6b6e-40e3-a9ed-9e7871ccae7c" />
+
