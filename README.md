@@ -13,8 +13,8 @@ This is the navigation hub for my platform engineering portfolio.
 3) Reliability: SLO + alert rules + runbooks + postmortem samples (TBD)
 
 ## Demo (later)
-- Local: kind/minikube (optional)
-- Cloud: EKS (optional)
+- Local: kind/minikube 
+- Cloud: EKS 
 
 ## Repositories
 - [platform-infra](https://github.com/howming-ops/platform-infra) — IaC / K8s / Observability
